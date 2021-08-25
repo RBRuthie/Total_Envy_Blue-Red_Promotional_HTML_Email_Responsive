@@ -1,0 +1,442 @@
+
+
+.header{
+  h1{
+    text-align: center;
+    font-family: 'Kaisei Decol', serif;
+    color: #646060;
+  }
+}
+.nav-header{
+  a{
+    font-family: 'Kaisei Decol', serif;
+    text-align: center;
+    font-size: 17px;
+    color: #646060;
+  }
+}
+// blue discount section 
+.blue-banner{
+  .blue-sale-banner{
+    background: #100072;
+  }
+  // background: #100072;
+  background-color: #FFFFFF;
+  h1{
+    font-size: 64px;
+    color: #FFFFFF;
+  }
+  h2{
+    padding: 0 0 0 3px;
+    margin: -22px 0 -13px 0;
+    font-size: 33px;
+    color: #FFFFFF;
+    letter-spacing: 4px;
+  }
+  .blue-button{
+    float: right;
+    margin: 40px 0 0 0;
+    padding: 5px 20px;
+    border: 1px solid #FFFFFF;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    background-color: #FFFFFF;
+    color: #333333;
+  }
+  
+}
+//  blue main section
+.blue-main{
+  .blue-main-content{
+  background-color: #E2DEDE;
+  }
+  h1 .blue{ 
+    font-size: 80px;
+    font-weight: 800;
+    line-height: 100px;
+    word-spacing: 65px;
+  }
+  h1 .lues { 
+    display: block;
+    padding-left: 1px;
+    font-size: 70px;
+    font-weight: 800;
+    line-height: 185px;
+  }
+  img{
+    width: 65%;
+  }
+  .buy-now-blue{
+    float: left;
+    padding: 5px 20px;
+    margin-bottom: 20px;
+    border: 1px solid #FFFFFF;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    background-color: #FFFFFF;
+    color: #0A0883;
+  }
+
+
+}
+// blue pics section
+.blue-pics{
+
+  .blue-pics-content{
+    background-color: #E2DEDE;
+  }
+  .blue-girl4, .blue-girl3, .blue-girl2, .blue-girl5{
+  padding: 43px 0 0 36px;
+  } 
+
+  .buy-now-blue-pics{
+    float: left;
+    padding: 5px 20px;
+    margin: 33px 0 15px -91px;
+    border: 1px solid #FFFFFF;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    background-color: #FFFFFF;
+    color: #0A0883;
+
+  }
+  
+}
+
+
+// **************************************************************
+
+// red discount section 
+.red-banner{
+  .red-sale-banner{
+    background: #883535 !important;
+    background-color: #910e22 !important;
+  }
+  h1{
+    font-size: 64px;
+    color: #FFFFFF;
+  }
+  h2{
+    padding: 0 0 0 3px;
+    margin: -22px 0 -13px 0;
+    letter-spacing: 4px;
+    font-size: 33px;
+    color: #FFFFFF;
+  }
+  .red-button{
+    float: right;
+    margin: 40px 0 0 0;
+    padding: 5px 20px;
+    border: 1px solid #FFFFFF;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    background-color: #FFFFFF;
+    color: #333333;
+  }
+  
+}
+// red main section
+.red-main{
+  .red-main-content{
+    background-color: #E2DEDE;
+  }
+  h1 .red{ 
+    line-height: 100px;
+    word-spacing: 65px;
+    font-size: 80px;
+    font-weight: 800;
+  }
+  h1 .reds { 
+    display: block;
+    padding-left: 1px;
+    line-height: 133px;
+    font-size: 70PX;
+    font-weight: 800;
+  }
+  img{
+    width: 65%;
+  }
+  .buy-now-red{
+    float: left;
+    padding: 5px 20px;
+    margin-bottom: 20px;
+    border: 1px solid #FFFFFF;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    background-color: #FFFFFF;
+    color: #883535;
+  }
+
+}
+// blue pics section
+.red-pics{
+  .red-pics-content{
+    background-color: #E2DEDE;
+  }
+
+  .rede-girl4, .red-girl3, .red-girl2, red-girl1{
+  width: 55%;
+  padding: 15px 0 0 57px;
+  }
+  .right-pics{
+    padding: 11px 0 0px 0;
+  }
+  .red-girl3.dress{
+    width: 67%;
+    margin: 23px 0 0 -19px
+  }
+  .buy-now-red-pics{
+    float: left;
+    padding: 5px 20px;
+    margin: 33px 0 15px -91px;
+    border: 1px solid #FFFFFF;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    background-color: #FFFFFF;
+    color: #883535;
+
+  }
+  
+
+
+}
+// merch-links
+.merch-links{
+  background-color: #ffffff;
+  hr{
+    width: 100%;
+    margin-top: 11px !important;
+  }
+  h1{
+    font-size: 20px;
+    text-align: center;
+    color: #b9b3b3;
+    margin: 19px 0 0px 0;
+  }
+  .sale h1{
+    color: red;
+  }
+}
+// footer - social media
+.footer-media{
+  .footer-media-content{
+    background-color: #f8f4f4;
+  }
+  h1{
+    padding: 55px 0 0px 0px !important;
+    font-size: 20px;
+    text-align: center;
+    color: #b9b3b3;
+  }
+  ul{
+    list-style: none;
+    padding: 30px;
+  }
+  li{
+    display: inline-block;
+    margin: 30px 0 30px 80px;
+  }
+
+}
+// footer - copy rights
+.footer-copyright{
+  h1{
+    font-size: 13px;
+    font-weight: 300;
+    text-align: center;
+    color: #938B8B;
+  }
+  .ancher{
+    font-weight: 700;
+    color: #938B8B;
+  }
+  a:hover{
+    color: #2199e8;
+  }
+}
+
+
+
+//  MEDIA QUERIES
+
+@media screen and (min-width: 500px) and(max-width: 600px) {
+
+  .nav-header{
+    .nav-title{
+    display: block !important;
+    margin: 0 0 0 54px !important;
+    line-height: 15px !important;
+    }
+  }
+  // ********  blue  *************
+  .blue-main-content{
+    .blue{
+      font-size: 50px !important;
+      word-spacing: 60px !important;
+    }
+    .lues{
+      font-size: 50px !important;
+      line-height: 185px !important;
+    }
+  }
+  // ********  red  *************
+  .red-main-content{
+    .red{
+      font-size: 50px !important;
+      word-spacing: 66px !important;
+    }
+    .reds{
+      font-size: 50px !important;
+      line-height: 155px !important;
+    }
+  }
+
+}
+
+@media screen and (min-width: 400px) and(max-width: 499px) {
+  .nav-header{
+    .nav-title{
+    display: block;
+    margin: 0 0 0 54px;
+    line-height: 15px;
+    }
+  }
+  // ********  blue  *************
+  .blue-main-content{
+    .blue{
+      font-size: 50px !important;
+      word-spacing: 30px !important;
+    }
+    .lues{
+      font-size: 50px !important;
+      line-height: 185px !important;
+      margin: -51px 0 22px 0;
+    }
+  }
+  .blue-girl{
+    width: 87% !important;
+  }
+
+  // ********  red  *************
+  .red-main-content{
+    .red{
+      font-size: 50px !important;
+      word-spacing: 35px !important;
+    }
+    .red-girl{
+      width: 87% !important;
+    }
+    .reds{
+      font-size: 50px !important;
+      line-height: 118px !important;
+      margin: -23px 0 22px 0;
+    }
+  }
+  .footer-media li {
+    margin: 30px 0 30px 30px;
+  }
+}
+
+@media screen and (min-width: 315px) and(max-width: 399px) {
+  .nav-header{
+    .nav-title{
+    display: block;
+    margin: 0 0 0 54px;
+    line-height: 15px;
+    }
+  }
+  .blue-sale-banner{
+    .title h1 {
+    font-size: 60px !important;
+    }
+    .blue-button {
+    margin: 15px 0 -16px 0 !important;
+    padding: 5px 20px !important;
+    font-size: 14px !important;
+    }
+  }
+  .blue-main-content{
+    .blue{
+      font-size: 50px !important;
+      word-spacing: 10px !important;
+    }
+    .lues{
+      font-size: 50px !important;
+      line-height: 151px !important;
+      margin: -51px 0px 22px 0px;
+    }
+    .blue-girl{
+      width: 81% !important;
+    }
+  }
+  .blue-pics-content{
+    .blue-girl4, .blue-girl3 {
+      width: 60%;
+      margin: 0 0 0 0 !important;
+  }
+  
+  .blue-pics-content{
+    .blue-girl5, .blue-girl3 {
+      width: 60%;
+      margin: 0 0 0 0 !important;
+  }
+
+  }
+ 
+  }
+  .buy-now-blue-pics{
+    margin: 30px 0 0 0 !important;
+  }
+// ******* red ********
+  .red-sale-banner{
+    .title h1 {
+    font-size: 60px !important;
+    }
+    .red-button {
+    margin: 15px 0 -16px 0 !important;
+    padding: 5px 20px !important;
+    font-size: 14px !important;
+    }
+  }
+  .red-main-content{
+    .red{
+      font-size: 50px !important;
+      word-spacing: 10px !important;
+    }
+
+    .red-girl{
+      width: 80% !important;
+    }
+
+    .reds{
+      font-size: 50px !important;
+      line-height: 81px !important;
+      margin: -23px 0 22px 0;
+    }
+  }
+  .buy-now-red-pics{
+    margin: 30px 0 0 0 !important;
+  }
+  .footer-media li {
+    margin: 30px 0 30px 53px;
+  }
+}
+
+
+
+
+
+
+
