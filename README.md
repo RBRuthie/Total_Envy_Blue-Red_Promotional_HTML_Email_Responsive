@@ -9,7 +9,7 @@
      <td>Blue Sale Section of Email</td>
   </tr>
   <tr>
-    <td><img src="assets/img/total-envy/IPAD-1.png" width=202.5 ></td>
-    <td><img src="assets/img/total-envy/IPAD-2.png" width=202.5 ></td>
+    <td><img src="https://github.com/RBRuthie/Total_Envy_Blue-Red_Promotional_HTML_Email_Responsive/blob/master/src/assets/img/total-envy/IPAD-1.png?raw=true" width=202.5 ></td>
+    <td><img src="https://github.com/RBRuthie/Total_Envy_Blue-Red_Promotional_HTML_Email_Responsive/blob/master/src/assets/img/total-envy/IPAD-2.png?raw=true" width=202.5 ></td>
   </tr>
  </table>
